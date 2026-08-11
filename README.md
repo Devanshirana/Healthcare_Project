@@ -219,8 +219,21 @@ You can also add additional screenshots from the project:
 ```markdown
 ![Application Screenshot](Screenshot%202026-08-11%20at%203.56.40%20PM%20copy.png)
 ```
+### 🏠 Home Page
+
 ![Healthcare Project Screenshot](https://raw.githubusercontent.com/Devanshirana/Healthcare_Project/8ec6185bab69d525b83c3bc2b0b5a4098d90775f/Screenshot%202026-08-11%20at%203.56.40%E2%80%AFPM%20copy%202.png)
----
+
+### 🔍 Disease Prediction
+
+![Healthcare Project Screenshot](https://raw.githubusercontent.com/Devanshirana/Healthcare_Project/a5005dfb467da6ed8312031b2b83204631f120a1/Screenshot%202026-08-11%20at%203.56.57%E2%80%AFPM.png)
+
+### 📋 Results
+
+![Healthcare Project Screenshot](https://raw.githubusercontent.com/Devanshirana/Healthcare_Project/a5005dfb467da6ed8312031b2b83204631f120a1/Screenshot%202026-08-11%20at%203.57.16%E2%80%AFPM.png)
+
+### 💡 Recommendations
+
+![Healthcare Project Screenshot](https://raw.githubusercontent.com/Devanshirana/Healthcare_Project/a5005dfb467da6ed8312031b2b83204631f120a1/Screenshot%202026-08-11%20at%203.57.29%E2%80%AFPM.png)
 
 ## 🔮 Future Improvements
 
